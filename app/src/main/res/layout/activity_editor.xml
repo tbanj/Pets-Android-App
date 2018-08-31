@@ -192,7 +192,24 @@
             </RelativeLayout>
         </LinearLayout>
 
-        
+        <LinearLayout
+            android:id="@+id/containe"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/container_measurement"
+            android:orientation="horizontal">
+
+            <!-- Label -->
+            <!--<TextView-->
+                <!--android:id="@+id/tv_lifecycle_events_display"-->
+                <!--android:text=""-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--/>-->
+
+            <!-- Input fields -->
+
+        </LinearLayout>
     </RelativeLayout>
 
 
