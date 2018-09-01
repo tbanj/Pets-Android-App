@@ -6,7 +6,7 @@ database.
 
 
 # Click on Google Drive Icon Below to download apk
-[<img src="scrs/google_drive.png">](https://drive.google.com/file/d/1C-EdSZA2-xYO5qVg3mEJ5_9kkCFEPTzN/view?usp=drivesdk)
+[<img src="scrs/google_drive.png">](https://drive.google.com/open?id=1jizDuNrONaVN7wKawPknSy98Ixr539w)
 
 
 
